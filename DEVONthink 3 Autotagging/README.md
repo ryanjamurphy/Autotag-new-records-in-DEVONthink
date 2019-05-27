@@ -24,14 +24,14 @@ This script does not work independently. Install the helper scripts below to use
 
 ## Autotag with concordance
 ### Use:
-Runs `Tag with Concordance` on Smart Rule-identified records, such as those identified by the Smart Rule [described in this post](https://talk.macpowerusers.com/t/whats-your-favorite-devonthink-feature-other-than-search-and-see-also/12362/12).
+Runs [`Tag with Concordance`](https://github.com/ryanjamurphy/augcog/blob/master/DEVONthink%203%20Autotagging/README.md#tag-with-concordance) on Smart Rule-identified records, such as those identified by the Smart Rule [described in this post](https://talk.macpowerusers.com/t/whats-your-favorite-devonthink-feature-other-than-search-and-see-also/12362/12).
 
 ### How to install
 Place this script in the DEVONthink Scripts `Smart Rules` folder. Include it as a step in a Smart Rule action.
 
 ## Tag selection with concordance
 ### Use:
-Runs `Tag with Concordance` on selected records.
+Runs [`Tag with Concordance`](https://github.com/ryanjamurphy/augcog/blob/master/DEVONthink%203%20Autotagging/README.md#tag-with-concordance) on selected records.
 
 ### How to install
 Place this script in the DEVONthink Scripts `Menu` folder.
