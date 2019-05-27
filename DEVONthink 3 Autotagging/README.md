@@ -3,14 +3,14 @@ These scripts, in combination, help you manage records' tags in [DEVONthink](htt
 
 ## Delete tags from records
 ### Use:
-Delete **_the_ selected tag(s)** from _all_ records.
+Delete _the selected tag(s)_ from _all_ records.
 
 ### How to install
 Place this script in the DEVONthink Scripts `Menu` folder.
 
 ## Remove tags from selection
 ### Use:
-Delete **_all_ tags** from _selected_ records.
+Delete _all tags_ from _selected_ records.
 
 ### How to install
 Place this script in the DEVONthink Scripts `Menu` folder.
