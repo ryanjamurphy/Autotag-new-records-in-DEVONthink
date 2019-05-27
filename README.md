@@ -1,1 +1,1 @@
-# augcog
+# Scripts for automation and augmented cognition
