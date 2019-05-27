@@ -1,5 +1,5 @@
 # About and instructions
-These scripts help you manage records' tags in [DEVONthink](https://devontechnologies.com/) macOS apps.
+These scripts help you manage tags in [DEVONthink](https://devontechnologies.com/) macOS apps.
 
 ## Delete tags from records
 ### Use:
