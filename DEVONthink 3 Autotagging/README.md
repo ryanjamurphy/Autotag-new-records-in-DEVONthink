@@ -1,5 +1,5 @@
 # About and instructions
-These scripts help you manage tags in [DEVONthink](https://devontechnologies.com/) macOS apps.
+These scripts help you manage tags in [DEVONthink](https://devontechnologies.com/) macOS apps. In particular, [`Autotag with concordance`](https://github.com/ryanjamurphy/augcog/blob/master/DEVONthink%203%20Autotagging/README.md#Autotag-with-concordance) allows you to establish an auto tagging system with DT3’s smart rules. This script will add 10 Finder-compatible tags to every new file based on DEVONthink's concordance keywords related to the file.
 
 ## Delete tags from records
 ### Use:
