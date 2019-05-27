@@ -1,1 +1,1 @@
-# Scripts for automation and augmented cognition
+# Automation and augmented cognition
